@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import DashboardCard from '../components/dashboard/dashboardCard';
 import FloatingChat from '../components/dashboard/chat/FloatingChat';
